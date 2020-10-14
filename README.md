@@ -3,16 +3,21 @@
 # Reactjs concepts
 
 Developing the application that will store repositories in your portfolio.(web)
----
+
+## Screenshots
+
+![Print 01](https://github.com/dgldaniel/Conceitos-ReactJS/blob/master/public/assets/print-01.png?raw=true)
+
 ## Requirements
 
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
 
 ### Node
+
 - #### Node installation on Windows
 
   Just go on [official Node.js website](https://nodejs.org/) and download the installer.
-Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com/)).
+  Also, be sure to have `git` available in your PATH, `npm` might need it (You can find git [here](https://git-scm.com/)).
 
 - #### Node installation on Ubuntu
 
@@ -37,8 +42,10 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
     $ npm install npm -g
 
 ###
+
 ### Yarn installation
-  After installing node, this project will need yarn too, so just run the following command.
+
+After installing node, this project will need yarn too, so just run the following command.
 
       $ npm install -g yarn
 
